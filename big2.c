@@ -1,7 +1,7 @@
 #include <stdio.h>  
    
 void biggest() {  
-    int a, b;  
+    int a, b 
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
     
