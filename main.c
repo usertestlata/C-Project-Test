@@ -1,5 +1,5 @@
 main() {
-	biggest();
+	biggest()
 	factorial();
 	reverse();
 }
